@@ -1,0 +1,7 @@
+*.csproj
+keystore
+Logs
+*.log
+.vs
+*.sln
+Что сделать в игре.txt
